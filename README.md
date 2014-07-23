@@ -2,6 +2,7 @@
 ===================
 
 The run_analyis.R script performs the following:
+
 1. Download accelerometer data from [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 2. Merge the training and test data sets to create a single dataset consisting of only the mean and standard deviation for each measurement. 
 3. Relabels activities and variables with descriptive names.
@@ -13,4 +14,5 @@ Full details of this data set can be obtained from the [site] (http://archive.ic
 ###Dependancies
 =============
 The scripts used depend on the following R packages: 
--curl
+
+* curl
