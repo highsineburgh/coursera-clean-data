@@ -1,7 +1,7 @@
 #coursera-clean-data codebook
 =============================
 
-The data set produced by running the 'run_analysis.R' script produces the following variables:
+The data set produced by running the 'run_analysis.R' see the [ReadMe](https://github.com/highsineburgh/coursera-clean-data/README.md) for details. The script produces the following variables:
 
 * subject
     * subject who performed the test
