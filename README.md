@@ -16,3 +16,8 @@ Full details of this data set can be obtained from the [site] (http://archive.ic
 The scripts used depend on the following R packages: 
 
 * curl
+* 
+
+###Running the Script
+=====================
+Download the script and run after making it executable. 
